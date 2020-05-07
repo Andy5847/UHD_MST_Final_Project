@@ -2,7 +2,7 @@
 This open source is a python package that solves a minimum weight spanning tree (MST) problem by implementing Prim's Algorithm.
 
 ## Getting Started
-Gitclone wokspace into your local desktop. Execute program, console will prompt an input from the user. After recieving input, the script uhd_weighted_graphs.py will read and graph the selected dataset, while initial_graph.py and test.py will animate the following result on the graph.
+Gitclone workspace into your local desktop. Execute program, console will prompt an input from the user. After recieving input, the script uhd_weighted_graphs.py will read and graph the selected dataset, while initial_graph.py and test.py will animate the following result on the graph.
 
 ### Prerequisites
 
